@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding Woman" width="60%" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Woman Coding" width="60%" />
 </p>
-
 
 
 <h1 align="center">Hi 👋, I'm Khadija Farah</h1>
