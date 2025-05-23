@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://www.touchmediaads.com/forimg/software.gif" alt="Woman Coding" width="60%" />
+<p align="center" style="background-color: pink;>
+  <img src="https://www.touchmediaads.com/forimg/software.gif" style="backgroundcolor:beige" alt="Woman Coding" width="60%" />
 </p>
 
 
