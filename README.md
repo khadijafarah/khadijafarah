@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Woman Coding" width="60%" />
+  <img src="https://www.touchmediaads.com/forimg/software.gif" alt="Woman Coding" width="60%" />
 </p>
 
 
