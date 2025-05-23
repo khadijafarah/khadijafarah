@@ -1,65 +1,126 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="MasterHead">
+  <img src="https://lottie.host/69fbc60c-28c1-496f-bbd7-b8c30769a220/a3PSIb44Xx.json" alt="Frontend Developer Animation" width="60%" />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Khadija Farah</h1>
-<h1 align="left">
-  🧑, About Me
-  <h3 align="left">Hey! 👋 I'm a MERN stack developer, focusing on React for front-end and exploring Next.js. comfortanle in Node.js, Express, and MongoDB for the back end. On a mission to become a versatile full-stack developer, aiming to craft seamless, user-centric web experiences. Let's connect and build something amazing! 🚀
-</h3>
-</h1>
+<h3 align="center">🌐 Frontend Developer | 🧪 Cypress Tester | 🚀 Passionate Builder of Seamless Experiences</h3>
 
-<img align="right" 
-width="400" height="350" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
+---
 
-<h3 align="left">💻 What I do:</h3>
+### 🧑‍💻 About Me
 
-- 🌱 - Crafting responsive and user-friendly interfaces using *React*
+I'm a dedicated **Frontend Developer** skilled in building intuitive, responsive, and accessible user interfaces with **React** and **Next.js**. I also bring a **quality-first mindset** as a **Cypress automation tester**, ensuring every UI component behaves as beautifully as it looks.
 
-- 👩‍💻 - Building RESTful APIs with *Node.js* and *Express*
-  
-- 💾 - Integrating *MongoDB* for database management with *Mongoose*
+My approach blends creativity and precision — whether it's designing with **Tailwind CSS**, connecting APIs, or crafting resilient end-to-end tests.
 
-- 🌐 - Creating seamless end-to-end web applications
+---
 
+### 💡 What I Do
 
+- ⚛️ Build modern UIs with **React**, **Next.js**, and **Tailwind CSS**
+- 🧪 Write **Cypress** tests to ensure app reliability and performance
+- 🔁 Use **React Testing Library** and **Jest** for unit/integration testing
+- 🔌 Integrate RESTful APIs and dynamic data with **Axios** & **React Query**
+- 💬 Collaborate in **Agile teams**, contribute ideas & write scalable code
+- 📦 Deploy fast and secure apps using **Vercel**, **Netlify**, or **Firebase**
 
- <h3 align="left">👀 Current overview:</h3>
+---
 
-1. *Exploring Next.js* 🚀
-   
-2. *Working with React* ⚛️
-
-3. *Implementing MongoDB, Mongoose, Express, Node.js Stack*  
-   *in Full Stack Development* 🌐💻
-
-4. *Building Full-Stack Sites* 🌐🚀
-
-5. *Continuous Learning* 📚
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/shohaib-hossain-0792041ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohaib-hossain-0792041ba" height="30" width="40" /></a>
-<a href="https://fb.com/ananta.asim.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ananta.asim.5" height="30" width="40" /></a>
-<a href="mailto:khanshohaibhossain@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="khanshohaibhossain@gmail.com" height="30" width="40" />
-</a>
-
-  
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwtio-json-web-token.svg" alt="tailwind" width="50" height="50"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331592/stripe-v2.svg" alt="tailwind" width="50" height="50"/> </a> 
-</p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadijafarah&show_icons=true&theme=merko&locale=en&layout=compact" alt="khadijafarah" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadijafarah&show_icons=true&theme=merko&locale=en" alt="khadijafarah" /></p>
+### 🚀 Tech Stack & Tools
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijafarah&theme=highcontrast" alt="khadijafarah" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
+
+---
+
+### 🛠️ Currently Working On
+
+- 🧪 Strengthening end-to-end test coverage using **Cypress**
+- 🌐 Developing performant, SEO-ready UIs with **Next.js**
+- 🔄 Automating test flows and CI workflows
+- 📚 Staying up-to-date with frontend trends & best practices
+
+---
+
+### 💬 Favorite Quotes
+
+> “Quality is never an accident. It is always the result of intelligent effort.” — John Ruskin  
+> “If you don’t like testing your product, most likely your customers won’t like to test it either.” — Anonymous  
+> “Simplicity is the soul of efficiency.” — Austin Freeman  
+> “The best UI is the one that goes unnoticed.” — Rolf Molich  
+
+---
+
+### 🌟 Featured Projects
+
+#### 📘 **LMS UI Platform**  
+_A responsive learning management frontend interface._
+
+- **Stack**: React, Tailwind, Firebase Auth
+- **Highlights**: Dynamic dashboard, student/teacher roles, protected routes
+- **Tested With**: Cypress (E2E), Jest + RTL
+- 🔗 [Source Code](https://github.com/khadijafarah/lms-ui)
+
+---
+
+#### 🛍️ **Mini E-commerce App**  
+_A fully functional shopping UI with cart, filters, and checkout flow._
+
+- **Stack**: Next.js, Stripe, MongoDB (via API)
+- **Highlights**: Stripe checkout, responsive product grid, custom hooks
+- **Tested With**: Cypress for add-to-cart, checkout scenarios
+- 🔗 [Source Code](https://github.com/khadijafarah/mini-ecommerce)
+
+---
+
+#### ✅ **Form Validation Wizard**  
+_Multi-step form with validation and auto-save logic._
+
+- **Stack**: React Hook Form, Tailwind, Zod
+- **Highlights**: Conditional fields, schema-based validation
+- 🔗 [Source Code](https://github.com/khadijafarah/form-wizard)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khadijafarah&show_icons=true&theme=merko" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijafarah&theme=highcontrast" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijafarah&layout=compact&theme=merko" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/khadijafarah" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
+  </a>
+  <a href="mailto:khadijafarah@example.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" />
+  </a>
+  <a href="https://fb.com/khadija.farah" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" />
+  </a>
+</p>
+
+---
+
+📢 _“Great UIs start with empathy. Great tests start with curiosity.”_ — *Khadija Farah*
