@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" alt="Woman Coding" width="60%" style="border-radius: 15px; background: #f3f4f6; padding: 10px;" />
+  <img src="https://images.stockcake.com/public/a/3/c/a3cfda1f-3241-4ded-b9da-9598279936a0_large/coding-at-night-stockcake.jpg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Khadija Farah</h1>
@@ -66,7 +66,7 @@ My work balances creativity and precision — whether styling with **Tailwind CS
 ### 🛠️ Currently Working On
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Working Hard" width="50%" style="border-radius: 15px; background: #f9fafb; padding: 10px;" />
+  <img src="https://www.touchmediaads.com/forimg/software.gif" style="backgroundcolor:beige" alt="Woman Coding" width="60%" />
 </p>
 
 - 🧪 Strengthening end-to-end test suites with **Cypress**  
