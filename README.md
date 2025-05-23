@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://lottie.host/69fbc60c-28c1-496f-bbd7-b8c30769a220/a3PSIb44Xx.json" alt="Frontend Developer Animation" width="60%" />
+  <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="Frontend Developer" width="60%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Khadija Farah</h1>
 <h3 align="center">🌐 Frontend Developer | 🧪 Cypress Tester | 🚀 Passionate Builder of Seamless Experiences</h3>
