@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="Frontend Developer" width="60%" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding Woman" width="60%" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Khadija Farah</h1>
